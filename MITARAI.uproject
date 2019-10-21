@@ -13,6 +13,10 @@
 				"Linux",
 				"Mac"
 			]
+		},
+		{
+			"Name": "Effekseer",
+			"Enabled": true
 		}
 	]
 }
